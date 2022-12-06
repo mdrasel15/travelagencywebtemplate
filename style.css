@@ -1,0 +1,21 @@
+section{
+    width: 1440px;
+    height: 824px;
+    background-image: url(asset/images/Top.png);
+    background-repeat:no-repeat;
+    margin: auto;
+    display: flex;
+}
+#site{
+    margin-top: 41px;
+    margin-left: 67px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+    color: #FFFFFF;
+}
+.top-1{
+    background: rgba(75, 103, 109, 0.51);
+}
